@@ -203,5 +203,18 @@
     ],
     "priority": 0,
     "name": "dahua-web-camara"
+  },
+  {
+    "path": "/",
+    "request_method": "get",
+    "request_headers": {},
+    "request_data": "",
+    "status_code": 0,
+    "headers": {},
+    "keyword":[
+      "RouterOS router configuration page",
+    ],
+    "priority": 0,
+    "name": "Mikrotik Web Admin"
   }
 ]
