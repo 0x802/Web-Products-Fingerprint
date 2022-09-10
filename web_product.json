@@ -39,6 +39,19 @@
     "status_code": 0,
     "headers": {},
     "keyword": [
+      "top.location=\"/ng\";"
+    ],
+    "priority": 0,
+    "name": "Fortinet Admin"
+  },
+  {
+    "path": "/",
+    "request_method": "get",
+    "request_headers": {},
+    "request_data": "",
+    "status_code": 0,
+    "headers": {},
+    "keyword": [
       "<title>Vigor Login Page</title>"
     ],
     "priority": 0,
