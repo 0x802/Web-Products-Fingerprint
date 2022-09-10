@@ -270,7 +270,22 @@
       "<meta name=\"SonicWall Administrator\""
     ],
     "priority": 0,
-    "name": "SonicWall"
+    "name": "sonicwall"
+  },
+  {
+    "path": "/",
+    "request_method": "get",
+    "request_headers": {},
+    "request_data": "",
+    "status_code": 0,
+    "headers": {
+      "Server":"SonicWALL"
+    },
+    "keyword":[
+      "<meta name=\"DELL SonicWALL Administrator"
+    ],
+    "priority": 0,
+    "name": "dell-sonicwall"
   },
   {
     "path": "/",
