@@ -271,6 +271,19 @@
     ],
     "priority": 0,
     "name": "HP System Management"
+  },
+  {
+    "path": "/",
+    "request_method": "get",
+    "request_headers": {},
+    "request_data": "",
+    "status_code": 0,
+    "headers": {},
+    "keyword":[
+      "<RESPONSE>TallyPrime Server is Running</RESPONSE>"
+    ],
+    "priority": 0,
+    "name": "TallyPrime"
   }
 
 ]
