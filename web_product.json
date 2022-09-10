@@ -340,5 +340,18 @@
     "priority": 0,
     "name": "Dahua"
   }
-
+ ,
+  {
+    "path": "/",
+    "request_method": "get",
+    "request_headers": {},
+    "request_data": "",
+    "status_code": 0,
+    "headers": {},
+    "keyword":[
+      "0;URL=/cgi-sys/defaultwebpage.cgi"
+    ],
+    "priority": 0,
+    "name": "Cpanel Sorry Page"
+  }
 ]
