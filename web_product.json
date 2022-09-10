@@ -381,4 +381,18 @@
     "priority": 0,
     "name": "D-LINK"
   }
+      ,
+  {
+    "path": "/",
+    "request_method": "get",
+    "request_headers": {},
+    "request_data": "",
+    "status_code": 0,
+    "headers": {},
+    "keyword":[
+      "<title>3CX Phone System Management Console</title>"
+    ],
+    "priority": 0,
+    "name": "3CX Management"
+  }
 ]
