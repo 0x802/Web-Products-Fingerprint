@@ -326,5 +326,19 @@
     "priority": 0,
     "name": "ASUS router"
   }
+  ,
+  {
+    "path": "/",
+    "request_method": "get",
+    "request_headers": {},
+    "request_data": "",
+    "status_code": 0,
+    "headers": {},
+    "keyword":[
+      "type=\"text/javascript\">$('frame_preview').src = '/html/previewindex.htm?'+VERSION_GUI;"
+    ],
+    "priority": 0,
+    "name": "Dahua"
+  }
 
 ]
