@@ -267,8 +267,7 @@
       "Server":"SonicWALL"
     },
     "keyword":[
-      "SonicWall Administrator",
-      "SonicWall - Authentication"
+      "<meta name=\"SonicWall Administrator\"",
     ],
     "priority": 0,
     "name": "SonicWall"
