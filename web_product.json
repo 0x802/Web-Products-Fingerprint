@@ -216,5 +216,20 @@
     ],
     "priority": 0,
     "name": "Mikrotik Web Admin"
+  },
+  {
+    "path": "/",
+    "request_method": "get",
+    "request_headers": {},
+    "request_data": "",
+    "status_code": 0,
+    "headers": {},
+    "keyword":[
+      "<title>Cyberoam</title>"
+    ],
+    "priority": 0,
+    "name": "Cyberoam"
   }
+  
+
 ]
