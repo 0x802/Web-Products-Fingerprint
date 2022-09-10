@@ -267,7 +267,7 @@
     "status_code": 0,
     "headers": {},
     "keyword":[
-      "This version of the HP System Management Homepage uses host operating system authentication."
+      "<title>HP System Management Homepage</title>"
     ],
     "priority": 0,
     "name": "HP System Management"
