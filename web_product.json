@@ -353,4 +353,18 @@
     "priority": 0,
     "name": "Cpanel Sorry Page"
   }
+   ,
+  {
+    "path": "/",
+    "request_method": "get",
+    "request_headers": {},
+    "request_data": "",
+    "status_code": 0,
+    "headers": {},
+    "keyword":[
+      "<script>window.onload=function(){ url ='/webui';window.location.href=url;}</script>"
+    ],
+    "priority": 0,
+    "name": "ciscoSystems"
+  }
 ]
