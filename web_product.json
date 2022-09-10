@@ -258,6 +258,19 @@
     ],
     "priority": 0,
     "name": "ManageEngine"
+  },
+  {
+    "path": "/",
+    "request_method": "get",
+    "request_headers": {},
+    "request_data": "",
+    "status_code": 0,
+    "headers": {},
+    "keyword":[
+      "This version of the HP System Management Homepage uses host operating system authentication."
+    ],
+    "priority": 0,
+    "name": "HP System Management"
   }
 
 ]
