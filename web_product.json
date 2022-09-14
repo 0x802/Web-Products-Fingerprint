@@ -225,8 +225,8 @@
     "status_code": 0,
     "headers": {},
     "keyword":[
-      "'customJs': projectPath+'js', // 非基线项目引用的js路径",
-      "\"basePath\": BASEURL, //配置基础项目的文件路径"
+      "'customJs': projectPath+'js', // ",
+      "\"basePath\": BASEURL, //"
     ],
     "priority": 0,
     "name": "dahua-web-camara"
