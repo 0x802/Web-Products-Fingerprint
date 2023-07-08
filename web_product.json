@@ -442,5 +442,16 @@
     "keyword": [],
     "priority": 0,
     "name": "Fortra GoAnywhere MFT"
+  },
+  {
+    "path": "/",
+    "request_method": "get",
+    "request_headers": {},
+    "request_data": "",
+    "status_code": 0,
+    "headers": {},
+    "keyword": ["<script type=\"text/javascript\" src=\"/vpn/resources.js\">"],
+    "priority": 0,
+    "name": "Citrix Gateway"
   }
 ]
