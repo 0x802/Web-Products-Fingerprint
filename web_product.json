@@ -453,5 +453,19 @@
     "keyword": ["<script type=\"text/javascript\" src=\"/vpn/resources.js\">"],
     "priority": 0,
     "name": "Citrix Gateway"
+  },
+  {
+    "path": "/",
+    "request_method": "get",
+    "request_headers": {},
+    "request_data": "",
+    "status_code": 0,
+    "headers": {},
+    "keyword": [
+      "content=\"vbulletin"
+    ],
+    "favicon_hash": [],
+    "priority": 0,
+    "name": "vbulletin"
   }
 ]
