@@ -429,12 +429,13 @@
     ],
     "priority": 0,
     "name": "FortiGate"
-  },{
+  },
+  {
     "path": "/",
     "request_method": "get",
     "request_headers": {},
     "request_data": "",
-    "status_code": 302,
+    "status_code": 0,
     "headers": {
       "Location":"/webclient/Dashboard.xhtml"
     },
