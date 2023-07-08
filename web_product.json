@@ -479,5 +479,18 @@
     ],
     "priority": 2,
     "name": "geoserver"
+  },
+  {
+    "path": "/",
+    "request_method": "get",
+    "request_headers": {},
+    "request_data": "",
+    "status_code": 0,
+    "headers": {},
+    "keyword": [
+      "<head><title>Home Assistant</title>"
+    ],
+    "priority": 2,
+    "name": "Assistant"
   }
 ]
