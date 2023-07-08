@@ -467,5 +467,17 @@
     "favicon_hash": [],
     "priority": 0,
     "name": "vbulletin"
+  },
+  {
+    "path": "/",
+    "request_method": "get",
+    "request_headers": {},
+    "request_data": "",
+    "status_code": 0,
+    "headers": {"Location":"/geoserver/index.html"},
+    "keyword": [
+    ],
+    "priority": 2,
+    "name": "geoserver"
   }
 ]
