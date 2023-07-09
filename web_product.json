@@ -474,7 +474,7 @@
     "status_code": 0,
     "headers": {},
     "keyword": [
-    "geoserver"],
+    "GeoServer"],
     "priority": 2,
     "name": "geoserver"
   },
