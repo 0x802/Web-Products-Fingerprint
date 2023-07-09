@@ -436,10 +436,8 @@
     "request_headers": {},
     "request_data": "",
     "status_code": 0,
-    "headers": {
-      "Location":"/webclient/Dashboard.xhtml"
-    },
-    "keyword": [],
+    "headers": {},
+    "keyword": ["GoAnywhere Web Client"],
     "priority": 0,
     "name": "Fortra GoAnywhere MFT"
   },
@@ -474,9 +472,9 @@
     "request_headers": {},
     "request_data": "",
     "status_code": 0,
-    "headers": {"Location":"/geoserver/index.html"},
+    "headers": {},
     "keyword": [
-    ],
+    "geoserver"],
     "priority": 2,
     "name": "geoserver"
   },
